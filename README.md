@@ -1,4 +1,4 @@
-### Prerequisites:
+![Description](rust.png)### Prerequisites:
 
 1. **Install Rust and Cargo:**
 
