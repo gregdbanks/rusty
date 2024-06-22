@@ -28,9 +28,14 @@
 
    - Open `Cargo.toml` and add the required dependencies:
      ```toml
-     [dependencies]
-     serde = { version = "1.0", features = ["derive"] }
-     serde_json = "1.0"
+      [package]
+      name = "todo_cli"
+      version = "0.1.0"
+      edition = "2021"
+      
+      [dependencies]
+      serde = { version = "1.0", features = ["derive"] }
+      serde_json = "1.0"
      ```
 
 3. **Write the Code:**
