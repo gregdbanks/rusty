@@ -171,4 +171,4 @@
 - **Write Code:** Implement the to-do list application in `main.rs`.
 - **Run the Project:** Build and run the project with `cargo run`.
 
-This should set up your environment correctly and allow you to run the to-do list application. If you encounter any specific errors, feel free to ask for further assistance!
+This should set up your environment correctly and allow you to run the to-do list application. 
